@@ -1,4 +1,3 @@
-<img width="1650" height="601" alt="image" src="https://github.com/user-attachments/assets/010e2795-2dad-4436-a173-804e16338675" />
 # 🥵下雪 for Typecho
 
 本插件实现对于Typecho前端的下雪效果
